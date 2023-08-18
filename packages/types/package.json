@@ -1,0 +1,9 @@
+{
+  "name": "@appbase/types",
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "@types/aws-lambda": "^8.10.115"
+  }
+}
